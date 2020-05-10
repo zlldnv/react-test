@@ -2,3 +2,4 @@ yarn add eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin --dev
 yarn add eslint-plugin-react --save-dev
 yarn add prettier eslint-config-prettier eslint-plugin-prettier --dev
 yarn add eslint-config-airbnb-typescript --dev
+yarn add husky lint-staged --dev
